@@ -1,0 +1,5 @@
+{
+  "fps": 12,
+  "desktop": { "dir": "frames", "count": 579, "ext": "jpg" },
+  "mobile": { "dir": "frames-mobile", "count": 290, "ext": "jpg" }
+}
